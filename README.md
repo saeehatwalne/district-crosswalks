@@ -219,5 +219,4 @@ merge 1:1 pc11_state_id pc11_district_id ///
 
 ## License
 
-Code: MIT. Data files: CC BY 4.0 (consistent with SHRUG's license). Please cite
-this repository and the SHRUG paper above if you use these files.
+Please cite this repository and the SHRUG if you use these files.
